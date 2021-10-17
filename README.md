@@ -79,6 +79,7 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
   <a href="https://caolan.github.io/async/v3/docs.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/asyncjs/asyncjs-ar21.svg" alt="async" width="40" height="40" /> </a>
+  <a href="https://lodash.com/docs/4.17.15" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lodash/lodash-icon.svg" alt="async" width="40" height="40" /> </a>
 </p>
 
 <h3>Databases</h3>
