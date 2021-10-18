@@ -18,7 +18,7 @@
 - Feel free to talk with me regarding anything :)
 
 <br />
-<h3>Overall Grind 💪</h3>
+<h3>Weekly Overall Grind 💪</h3>
 
 <!--START_SECTION:waka-->
 ```text
