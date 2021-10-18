@@ -17,6 +17,8 @@
 
 - Feel free to talk with me regarding anything :)
 
+<br />
+<h3>Overall Grind 💪</h3>
 <!--START_SECTION:waka-->
 ```text
 JavaScript   30 hrs 11 mins  ███████████████▓░░░░░░░░░   62.70 % 
