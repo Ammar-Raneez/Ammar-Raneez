@@ -18,6 +18,13 @@
 - Feel free to talk with me regarding anything :)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   30 hrs 11 mins  ███████████████▓░░░░░░░░░   62.70 % 
+TypeScript   8 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 % 
+HTML         3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+YAML         2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other        1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+```
 <!--END_SECTION:waka-->
 
 <br />
