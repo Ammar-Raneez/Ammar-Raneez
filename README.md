@@ -17,6 +17,9 @@
 
 - Feel free to talk with me regarding anything :)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br />
 <div>
   <h3 align="left">Reach Me At:</h3>
