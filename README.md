@@ -129,3 +129,5 @@
 <img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Raneez" />
 <br /><br />
 <img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Raneez">
+<br /><br />
+<img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ammar" />
