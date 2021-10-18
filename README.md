@@ -80,6 +80,7 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest" width="40" height="40" /> </a>
+  <a href="https://deno.land/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/de63615eebd106ac1bcab3318ec85e1b32168ccf/icons/deno.svg" alt="deno" width="40" height="40" /> </a>
   <a href="https://caolan.github.io/async/v3/docs.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/asyncjs/asyncjs-ar21.svg" alt="async" width="40" height="40" /> </a>
   <a href="https://lodash.com/docs/4.17.15" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lodash/lodash-icon.svg" alt="lodash" width="40" height="40" /> </a>
 </p>
