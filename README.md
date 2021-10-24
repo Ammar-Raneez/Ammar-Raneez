@@ -110,7 +110,7 @@ CSS          2 hrs 18 mins   █▓░░░░░░░░░░░░░░░
 
 <h3>Tools</h3>
 <p>
-  <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify width="40" height="40" /> </a>
+  <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40" /> </a>
   <a href="https://www.kaggle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40" /> </a>
   <a href="https://hasura.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura" width="40" height="40" /> </a>
   <a href="https://expo.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40" /> </a>
