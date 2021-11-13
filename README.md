@@ -55,8 +55,8 @@ Text         26 mins         ▒░░░░░░░░░░░░░░░░
   </a>
   <br /><br />
   <p align="center">
-    <a href="https://app.daily.dev/Amu">
-      <img src="https://api.daily.dev/devcards/a72101329a3d4f67a5d3927d593e5c0e.png?r=0ra" width="400" alt="Ammar's Dev Card"/>
+    <a href="https://github.com/Ammar-Raneez/Ammar-Raneez/blob/main/devcard.svg">
+      <img src="https://github.com/Ammar-Raneez/Ammar-Raneez/blob/main/devcard.svg" width="400" alt="Ammar's Dev Card"/>
     </a>
   </p>
 </div>
