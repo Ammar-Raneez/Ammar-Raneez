@@ -48,11 +48,17 @@ Text         26 mins         ▒░░░░░░░░░░░░░░░░
       height="30" width="40"
     />
   </a>
-    <a href="https://stackoverflow.com/users/13134768/ammar" target="blank">
+  <a href="https://stackoverflow.com/users/13134768/ammar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       height="30" width="40"
     />
   </a>
+  <br /><br />
+  <p align="center">
+    <a href="https://app.daily.dev/Amu">
+      <img src="https://api.daily.dev/devcards/a72101329a3d4f67a5d3927d593e5c0e.png?r=0ra" width="400" alt="Ammar's Dev Card"/>
+    </a>
+  </p>
 </div>
 <br /><br />
 
