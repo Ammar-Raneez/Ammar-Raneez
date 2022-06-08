@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I am Ammar, aka Amu</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I am Ammar, aka Amu</h1>
 <br />
 <div>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Ammar-Raneez.Ammar-Raneez" />
