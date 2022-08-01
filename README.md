@@ -9,9 +9,9 @@
 <br />
 - Hardworking and Passionate developer. Love building projects ranging from frontend all the way to backend
 
-- I’m currently doing my Internship at [99x](https://99x.io/)
+- I’m currently freelancing as a Software Engineer at [Niftron](https://www.niftron.com/)
 
-- Also Freelance
+- Also a final year CS student
 
 - Work on side projects & love learning new things
 
