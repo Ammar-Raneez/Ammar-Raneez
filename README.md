@@ -9,7 +9,7 @@
 <br />
 - Hardworking and Passionate developer. Love building projects ranging from frontend all the way to backend
 
-- I’m currently freelancing as a Software Engineer at [Niftron](https://www.niftron.com/)
+- I’m currently a Software Engineer at [Niftron](https://www.niftron.com/)
 
 - Also a final year CS student
 
@@ -69,13 +69,7 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
 <h3>Frontend</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40" /> </a>
-  <a href="https://handlebarsjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg" alt="handlebars" width="40" height="40" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
-  <a href="https://lesscss.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg" alt="sass" width="40" height="40" /> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="js" width="40" height="40" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" /> </a>
@@ -84,9 +78,10 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="nextjs" width="40" height="40" /> </a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
+</a>
+  <a href="https://www.swift.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40" /> </a>
 </p>
 
 <h3>Backend</h3>
@@ -104,8 +99,8 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest" width="40" height="40" /> </a>
   <a href="https://deno.land/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/de63615eebd106ac1bcab3318ec85e1b32168ccf/icons/deno.svg" alt="deno" width="40" height="40" /> </a>
-  <a href="https://caolan.github.io/async/v3/docs.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/asyncjs/asyncjs-ar21.svg" alt="async" width="40" height="40" /> </a>
-  <a href="https://lodash.com/docs/4.17.15" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lodash/lodash-icon.svg" alt="lodash" width="40" height="40" /> </a>
+  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
+  <a href="https://www.prisma.io/" target="_blank"> <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="prisma" width="40" height="40" /> </a>
 </p>
 
 <h3>Databases</h3>
@@ -113,7 +108,6 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
   <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" /> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 </p>
@@ -132,10 +126,6 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
   <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="40" height="40" /> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-  <a href="https://www.lucidchart.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg" alt="lucid" width="40" height="40" /> </a>
-  <a href="https://www.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="40" height="40" /> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" /> </a>
-  <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrain" width="40" height="40" /> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 </p>
 
