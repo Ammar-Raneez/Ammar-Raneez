@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I am Ammar, aka Amu</h1>
 <br />
 <div>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ammar-Raneez.Ammar-Raneez" />
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=Ammar-Raneez.Ammar-Raneez" /> -->
   <a href="https://www.hackerrank.com/_Ammar_">
     <img alt ="" src="https://img.shields.io/badge/HackerRank-&#9734&#9734&#9734&#9734&#9734-brightgreen?style=flat&logo=hackerrank">
   </a>
@@ -9,9 +9,9 @@
 <br />
 - Hardworking and Passionate developer. Love building projects ranging from frontend all the way to backend
 
-- I’m currently a Software Engineer at [Niftron](https://www.niftron.com/)
+<!-- - I’m currently a Software Engineer at [Niftron](https://www.niftron.com/) -->
 
-- Also a final year CS student
+- I'm currently a final year CS student
 
 - Work on side projects & love learning new things
 
