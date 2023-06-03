@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   22 mins         ███████████████████▒░░░░░   77.11 %
 Python       6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
 ```
