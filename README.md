@@ -9,22 +9,22 @@
 <br />
 - Hardworking and Passionate developer. Love building projects ranging from frontend all the way to backend
 
-<!-- - I’m currently a Software Engineer at [Niftron](https://www.niftron.com/) -->
+- I’m currently a Software Engineer at [99x](http://99x.io/)
 
-- I'm currently a final year CS student
+- I hold a bachelors in Computer Science from the University of Westminster with a 1st class honours 
 
 - Work on side projects & love learning new things
 
 - Feel free to talk with me regarding anything :)
 
-<br />
-<h3>Weekly Overall Grind 💪</h3>
+<!--<br />
+<h3>Weekly Overall Grind 💪</h3>-->
 
 <!--START_SECTION:waka-->
 
-```txt
+<!--```txt
 No activity tracked
-```
+```-->
 
 <!--END_SECTION:waka-->
 
@@ -131,11 +131,11 @@ No activity tracked
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a>
 </p>
 
-<br /><br />
+<!--<br /><br />
 <img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=Ammar-Raneez&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
 <br /><br />
 <img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Raneez" />
-<br /><br />
+<br /><br />-->
 <!-- <img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Raneez">
 <br /><br /> -->
 <!--<img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ammar" />-->
