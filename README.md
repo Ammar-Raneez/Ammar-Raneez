@@ -23,7 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+ERB          22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.78 %
+Markdown     17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+HTML         12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Other        10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+JavaScript   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
 ```
 
 <!--END_SECTION:waka-->
