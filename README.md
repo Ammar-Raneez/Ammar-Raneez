@@ -23,7 +23,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          █████████████████████████   100.00 %
+Bash         1 hr 2 mins     ████████████████████▒░░░░   80.98 %
+Vim Script   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
 ```
 
 <!--END_SECTION:waka-->
