@@ -23,8 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 2 mins     ████████████████████▒░░░░   80.98 %
-Vim Script   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Bash              2 hrs 26 mins   █████████████████████▒░░░   84.90 %
+Vim Script        14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Java Properties   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+TSConfig          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
