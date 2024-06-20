@@ -23,10 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash              1 hr 24 mins    ████████████████████▓░░░░   82.99 %
-Java Properties   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-TypeScript        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-TSConfig          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TypeScript   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
