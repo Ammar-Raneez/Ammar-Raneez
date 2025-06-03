@@ -9,7 +9,7 @@
 <br />
 - Hardworking and Passionate developer. Love building projects ranging from frontend all the way to backend
 
-- I’m currently a Senior Software Engineer at [99x](http://99x.io/)
+- I’m currently a Senior Software Engineer
 
 - I hold a bachelors in Computer Science from the University of Westminster with a 1st class honours 
 
