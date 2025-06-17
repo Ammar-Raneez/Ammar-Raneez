@@ -11,11 +11,7 @@
 
 - I’m currently a Senior Software Engineer
 
-- I hold a bachelors in Computer Science from the University of Westminster with a 1st class honours 
-
 - Work on side projects & love learning new things
-
-- Feel free to talk with me regarding anything :)
 
 <!--<br />
 <h3>Weekly Overall Grind 💪</h3>-->
