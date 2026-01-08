@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     7 hrs 8 mins    ████████████▒░░░░░░░░░░░░   49.71 %
-Bash           2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-Other          2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Python         1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-FortranFixed   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+TypeScript     8 hrs 4 mins    █████████████░░░░░░░░░░░░   52.40 %
+Other          2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Bash           2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+Python         1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+FortranFixed   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
